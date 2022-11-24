@@ -1,0 +1,24 @@
+[submodule "android_slot_machine"]
+	path = android_slot_machine
+	url = git@github.com:cybernhl/android_slot_machine.git
+[submodule "TigerWu"]
+	path = TigerWu
+	url = git@github.com:cybernhl/TigerWu.git
+[submodule "SlotMachine"]
+	path = SlotMachine
+	url = git@github.com:cybernhl/SlotMachine.git
+[submodule "MyZhuanPan"]
+	path = MyZhuanPan
+	url = https://github.com/cybernhl/MyZhuanPan
+[submodule "FruitMachine"]
+	path = FruitMachine
+	url = git@github.com:cybernhl/FruitMachine.git
+[submodule "TigerGame"]
+	path = TigerGame
+	url = git@github.com:cybernhl/TigerGame.git
+[submodule "Android-LuckyMonkeyPanel"]
+	path = Android-LuckyMonkeyPanel
+	url = git@github.com:cybernhl/Android-LuckyMonkeyPanel.git
+[submodule "Tiger"]
+	path = Tiger
+	url = git@github.com:cybernhl/Tiger.git

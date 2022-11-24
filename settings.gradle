@@ -1,0 +1,17 @@
+rootProject.name = "Gambling"
+include ':MyZhuanPan'
+project(":MyZhuanPan").projectDir = file("./MyZhuanPan/MyZhuanPan")
+include ':Android-LuckyMonkeyPanel'
+project(":Android-LuckyMonkeyPanel").projectDir = file("./Android-LuckyMonkeyPanel/app")
+include ':FruitMachine'
+project(":FruitMachine").projectDir = file("./FruitMachine/FruitMachine")
+include ':TigerGame'
+project(":TigerGame").projectDir = file("./TigerGame/TigerGame")
+include ':SlotMachine'
+project(":SlotMachine").projectDir = file("./SlotMachine/app")
+include ':TigerWu'
+project(":TigerWu").projectDir = file("./TigerWu/Tiger/app")
+include ':hdpuk86_SlotMachine'
+project(":hdpuk86_SlotMachine").projectDir = file("./android_slot_machine/app")
+include ':Tiger'
+project(":Tiger").projectDir = file("./Tiger/app")
