@@ -22,3 +22,6 @@
 [submodule "Tiger"]
 	path = Tiger
 	url = git@github.com:cybernhl/Tiger.git
+[submodule "TigerMachine"]
+	path = TigerMachine
+	url = git@github.com:cybernhl/TigerMachine.git

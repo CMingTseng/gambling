@@ -15,3 +15,5 @@ include ':hdpuk86_SlotMachine'
 project(":hdpuk86_SlotMachine").projectDir = file("./android_slot_machine/app")
 include ':Tiger'
 project(":Tiger").projectDir = file("./Tiger/app")
+include ':TigerMachine'
+project(":TigerMachine").projectDir = file("./TigerMachine/TigerMachine")
